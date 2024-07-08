@@ -20,11 +20,15 @@ The Deaths Placeholder allows displaying a player's death count or accessing the
 The configuration file (`config.yml`) allows customization of placeholder formatting:
 
 ```yaml
+auto-update: true
+
+placeholder-prefix: "zenholders"
+
 configuration:
   formating:
-    billions: "B"
-    millions: "M"
     thousands: "k"
+    millions: "m"
+    billions: "b"
 ```
 
 Other Placeholders 📈
