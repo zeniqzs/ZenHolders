@@ -11,7 +11,7 @@ The Deaths Placeholder allows displaying a player's death count or accessing the
 #### Usage
 
 - `%player_deaths%`: Displays the player's death count.
-- `%player_deaths_place_[number]%`: Displays the death count of the player at the specified rank.
+- `%player_deaths_place_[number]%`: Displays the death count of the player at the specified rank. (Numbers: 1 - 99 )
   - Example: `%player_deaths_place_1%` shows the deaths of the player with the most deaths.
   - `%player_deaths_place_1_name%`: Displays the name and death count of the player with the most deaths.
 
