@@ -57,6 +57,29 @@ author: Zeniqzs
 website: https://zeniqzs.eu
 ```
 
+# Placeholder and their use
+
+- `%zenholders_statistic_deaths%` Displays your Deaths.
+  - `%zenholders_statistic_deaths_place_(playerName)` Displays the Place from the Player in the Placeholder.
+  - `%zenholders_statistic_deaths_place_(place)%` Displays how much Deaths the Player on the Place has
+      - You can type in `(place)` a Number beetwen 1 - 99.
+  - `%zenholders_statistic_deaths_place_(place)_name%` Displays the Name then how much Deaths the Player has.
+ 
+- The Kills and Jumps Placeholder works exactlly like the Deaths Placeholder.
+
+- `%zenholders_statistic_playtime%` Displays your Playtime on the Server in a h m s Format. (h = hours, m = minutes, s = seconds. This is the Standart Format for every Placeholder wich uses the Time and has not a specified Format)
+    - `%zenholders_statistic_playtime_format_d_h_m` Displays your Playtime in a specified Format you like
+      - `Formats:`
+      - y = years, M = months, w = weeks, d = days, h = hours, m = minutes, s = seconds,
+    - `%zenholders_statistic_playtime_place%` Displays your Place in the List of the most Playtime on the Server.
+    - `%zenholders_statistic_playtime_place_(place)%` Displays the Playtime from the Place you typed in.
+      - You can type in `(place)` a Number beetwen 1 - 99.
+    - `%zenholders_statistic_playtime_(place)_name%` Displays the name then the Playtime of the Player
+    - `%zenholders_statistic_playtime_(place)_name%_format_(Your_Format)` Displays the Playtime of the Player in a Formatted way you like.
+     
+
+
+
 Support and Contact 📧
 For questions, suggestions, or bug reports, you can contact the developer through the website or create an issue on GitHub.
 
