@@ -1,4 +1,4 @@
-# ZenHolders Plugin 🎮 Test
+# ZenHolders Plugin 🎮
 
 The ZenHolders Plugin provides comprehensive placeholder functionality for various player statistics and data in Minecraft. With this plugin, you can easily access important game information and use it in your server or plugins.
 
